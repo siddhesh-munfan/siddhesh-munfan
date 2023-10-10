@@ -1,4 +1,4 @@
-Hii there 👋 My name is Siddhesh Munfan
+Hii👋 My name is Siddhesh Munfan
 ================================
 
  ### React/ Native Developer
